@@ -1,3 +1,5 @@
+Hello,
+
 Im currently working on hardware and software for a 2D robot to make art. I am also working on a suite of photo sorting and search tools that run locally. 
 
 <!--
